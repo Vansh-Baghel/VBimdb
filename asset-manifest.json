@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/static/css/main.ec3c9022.css",
+    "main.js": "/static/js/main.e795aac1.js",
+    "static/media/IMDB_Logo_2016.svg.png": "/static/media/IMDB_Logo_2016.svg.b828441e9bf929c8e9bc.png",
+    "index.html": "/index.html",
+    "main.ec3c9022.css.map": "/static/css/main.ec3c9022.css.map",
+    "main.e795aac1.js.map": "/static/js/main.e795aac1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ec3c9022.css",
+    "static/js/main.e795aac1.js"
+  ]
+}
