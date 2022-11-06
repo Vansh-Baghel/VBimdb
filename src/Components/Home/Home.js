@@ -41,7 +41,6 @@ const Home = () => {
             <Link
               style={{ textDecoration: "none", color: "white" }}
               to={`/movie/${movie.id}`}
-              key={movie.id}
             >
               <div className={classes.movieImage}>
                 <img
