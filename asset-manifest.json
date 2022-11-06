@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/imdb/static/css/main.ec3c9022.css",
-    "main.js": "/imdb/static/js/main.edc86d67.js",
-    "static/js/787.7c442f28.chunk.js": "/imdb/static/js/787.7c442f28.chunk.js",
-    "static/media/IMDB_Logo_2016.svg.png": "/imdb/static/media/IMDB_Logo_2016.svg.b828441e9bf929c8e9bc.png",
-    "index.html": "/imdb/index.html",
-    "main.ec3c9022.css.map": "/imdb/static/css/main.ec3c9022.css.map",
-    "main.edc86d67.js.map": "/imdb/static/js/main.edc86d67.js.map",
-    "787.7c442f28.chunk.js.map": "/imdb/static/js/787.7c442f28.chunk.js.map"
+    "main.css": "/VBimdb/static/css/main.ec3c9022.css",
+    "main.js": "/VBimdb/static/js/main.2b1eeb2c.js",
+    "static/js/787.7c442f28.chunk.js": "/VBimdb/static/js/787.7c442f28.chunk.js",
+    "static/media/IMDB_Logo_2016.svg.png": "/VBimdb/static/media/IMDB_Logo_2016.svg.b828441e9bf929c8e9bc.png",
+    "index.html": "/VBimdb/index.html",
+    "main.ec3c9022.css.map": "/VBimdb/static/css/main.ec3c9022.css.map",
+    "main.2b1eeb2c.js.map": "/VBimdb/static/js/main.2b1eeb2c.js.map",
+    "787.7c442f28.chunk.js.map": "/VBimdb/static/js/787.7c442f28.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ec3c9022.css",
-    "static/js/main.edc86d67.js"
+    "static/js/main.2b1eeb2c.js"
   ]
 }
